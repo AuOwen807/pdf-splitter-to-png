@@ -7,3 +7,9 @@ pdf_inputs/
 extracted_images/
 .venv/
 venv/
+
+# 测试文件
+test_pdfs/
+
+# macOS
+.DS_Store
