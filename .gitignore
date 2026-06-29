@@ -13,3 +13,5 @@ test_pdfs/
 
 # macOS
 .DS_Store
+test_pdfs/
+.DS_Store
